@@ -1,0 +1,24 @@
+{
+  "name": "tcomb-merge",
+  "version": "1.0.0",
+  "description": "Recursively merge tcomb types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macropodhq/tcomb-merge.git"
+  },
+  "keywords": [
+    "tcomb",
+    "type",
+    "merge"
+  ],
+  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fknsrs.biz/)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/macropodhq/tcomb-merge/issues"
+  },
+  "homepage": "https://github.com/macropodhq/tcomb-merge#readme"
+}
